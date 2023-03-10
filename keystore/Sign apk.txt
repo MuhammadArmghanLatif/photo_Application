@@ -1,0 +1,13 @@
+Application Name : Vevo
+alias:- vevo
+Pass : Vevo,.123!@
+Organization : Kmphasis Infotech
+Organization Unit : N/A
+First Name : abde samad
+Last Name : boulhend
+Address : Agadir Hassan 2 Boulevard, Apt 19
+City : Agadir
+State : Sous Massa
+Country : Morocco
+Country (XX) : MA
+Zipcode: 80000
